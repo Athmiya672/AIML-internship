@@ -10,5 +10,4 @@ Seaborn
 Matplotlib
 Scikit-learn
 
-import pandas as pd
-data=pd.read_csv("titantic.csv")
+
